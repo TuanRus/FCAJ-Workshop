@@ -1,6 +1,6 @@
 ---
 title: "Week 8 Worklog"
-date: 2025-01-01
+date: 2026-11-03
 weight: 8
 chapter: false
 pre: " <b> 1.8. </b> "
@@ -8,23 +8,19 @@ pre: " <b> 1.8. </b> "
 
 ### Week 8 Objectives:
 
-* TODO: Objective 1
-* TODO: Objective 2
+* Understand monitoring and logging on AWS: CloudWatch, CloudTrail and X-Ray
+* Practice setting up comprehensive monitoring
 
 ### Tasks carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | ---- | ---------- | --------------- | ------------------ |
-| 2   | - TODO: task | DD/MM/YYYY | DD/MM/YYYY | <https://cloudjourney.awsstudygroup.com/> |
-| 3   | - TODO: task | DD/MM/YYYY | DD/MM/YYYY | |
-| 4   | - TODO: task <br> - **Practice:** <br>&emsp; + TODO: lab step | DD/MM/YYYY | DD/MM/YYYY | |
-| 5   | - TODO: task | DD/MM/YYYY | DD/MM/YYYY | |
-| 6   | - TODO: task | DD/MM/YYYY | DD/MM/YYYY | |
+| 2   | - Learn about CloudWatch metrics and alarms | 02/11/2026 | 02/11/2026 | <https://000008.awsfcaj.com/> |
+| 3   | - Learn about CloudTrail audit logging | 03/11/2026 | 03/11/2026 | |
 
 ### Week 8 Achievements:
 
-* TODO: What you learned / understood
-* TODO: What you built or practiced
-* TODO: Skills gained
+* Know how to use CloudWatch metrics and alarms to monitor resources
+* Understand that CloudTrail records audit logs of activity on the account
 
 ### Difficulties & Solutions:
 

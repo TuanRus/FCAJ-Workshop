@@ -1,6 +1,6 @@
 ---
 title: "Week 1 Worklog"
-date: 2025-01-01
+date: 2026-11-03
 weight: 1
 chapter: false
 pre: " <b> 1.1. </b> "
@@ -8,28 +8,24 @@ pre: " <b> 1.1. </b> "
 
 ### Week 1 Objectives:
 
-* TODO: Objective 1
-* TODO: Objective 2
+* Read the company rules and get ready for the OJT
 
 ### Tasks carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | ---- | ---------- | --------------- | ------------------ |
-| 2   | - TODO: task | DD/MM/YYYY | DD/MM/YYYY | <https://cloudjourney.awsstudygroup.com/> |
-| 3   | - TODO: task | DD/MM/YYYY | DD/MM/YYYY | |
-| 4   | - TODO: task <br> - **Practice:** <br>&emsp; + TODO: lab step | DD/MM/YYYY | DD/MM/YYYY | |
-| 5   | - TODO: task | DD/MM/YYYY | DD/MM/YYYY | |
-| 6   | - TODO: task | DD/MM/YYYY | DD/MM/YYYY | |
+| 3   | - Read the company rules | 15/09/2026 | 15/09/2026 | <https://hcm-rules.awsfcaj.com/> |
+| 4   | - Create an AWS account and a Portal account | 16/09/2026 | 16/09/2026 | <https://000001.awsfcaj.com/> |
+| 5   | - Enable MFA and set up a budget to manage costs | 17/09/2026 | 17/09/2026 | <https://000007.awsfcaj.com/> |
+| 6   | - Create an IAM admin user | 18/09/2026 | 18/09/2026 | <https://000002.awsfcaj.com/> |
 
 ### Week 1 Achievements:
 
-* TODO: What you learned / understood
-* TODO: What you built or practiced
-* TODO: Skills gained
+* Prepared all the resources needed for learning and working
 
 ### Difficulties & Solutions:
 
-* TODO: Problem met and how you solved it (optional)
+* Not yet familiar with the AWS Management Console
 
 ### Plan for next week:
 
-* TODO: Optional
+* Learn about a few basic AWS services

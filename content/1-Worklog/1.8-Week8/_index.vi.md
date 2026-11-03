@@ -1,6 +1,6 @@
 ---
 title: "Worklog Tuần 8"
-date: 2025-01-01
+date: 2026-11-03
 weight: 8
 chapter: false
 pre: " <b> 1.8. </b> "
@@ -8,23 +8,19 @@ pre: " <b> 1.8. </b> "
 
 ### Mục tiêu tuần 8:
 
-* TODO: Mục tiêu 1
-* TODO: Mục tiêu 2
+* Hiểu về giám sát và ghi log trên AWS: CloudWatch, CloudTrail và X-Ray
+* Thực hành thiết lập giám sát toàn diện
 
 ### Các công việc đã triển khai trong tuần:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --------- | ------------ | --------------- | -------------- |
-| 2   | - TODO: công việc | DD/MM/YYYY | DD/MM/YYYY | <https://cloudjourney.awsstudygroup.com/> |
-| 3   | - TODO: công việc | DD/MM/YYYY | DD/MM/YYYY | |
-| 4   | - TODO: công việc <br> - **Thực hành:** <br>&emsp; + TODO: bước lab | DD/MM/YYYY | DD/MM/YYYY | |
-| 5   | - TODO: công việc | DD/MM/YYYY | DD/MM/YYYY | |
-| 6   | - TODO: công việc | DD/MM/YYYY | DD/MM/YYYY | |
+| 2   | - Học về CloudWatch metrics và alarm | 02/11/2026 | 02/11/2026 | <https://000008.awsfcaj.com/> |
+| 3   | - Học về CloudTrail audit logging | 03/11/2026 | 03/11/2026 | |
 
 ### Kết quả đạt được tuần 8:
 
-* TODO: Kiến thức đã hiểu
-* TODO: Những gì đã làm / thực hành
-* TODO: Kỹ năng có được
+* Biết dùng CloudWatch metrics và alarm để theo dõi tài nguyên
+* Hiểu CloudTrail dùng để ghi log kiểm toán các hoạt động trên tài khoản
 
 ### Khó khăn & cách giải quyết:
 
