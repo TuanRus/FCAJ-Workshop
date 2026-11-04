@@ -16,6 +16,7 @@ pre: " <b> 1.8. </b> "
 | --- | ---- | ---------- | --------------- | ------------------ |
 | 2   | - Learn about CloudWatch metrics and alarms | 02/11/2026 | 02/11/2026 | <https://000008.awsfcaj.com/> |
 | 3   | - Learn about CloudTrail audit logging | 03/11/2026 | 03/11/2026 | |
+| 4   | - Finalize the team project with the team, make a plan and start running the project | 04/11/2026 | 04/11/2026 | |
 
 ### Week 8 Achievements:
 

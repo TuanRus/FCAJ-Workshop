@@ -1,6 +1,6 @@
 ---
 title: "Worklog Tuần 8"
-date: 2026-11-03
+date: 2026-11-04
 weight: 8
 chapter: false
 pre: " <b> 1.8. </b> "
@@ -16,6 +16,7 @@ pre: " <b> 1.8. </b> "
 | --- | --------- | ------------ | --------------- | -------------- |
 | 2   | - Học về CloudWatch metrics và alarm | 02/11/2026 | 02/11/2026 | <https://000008.awsfcaj.com/> |
 | 3   | - Học về CloudTrail audit logging | 03/11/2026 | 03/11/2026 | |
+| 4   | - Cùng team chốt dự án team lên kế hoạch và bắt đầu chạy dự án | 04/11/2026 | 04/11/2026 | |
 
 ### Kết quả đạt được tuần 8:
 
