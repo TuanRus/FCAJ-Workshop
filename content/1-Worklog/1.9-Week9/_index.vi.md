@@ -14,11 +14,11 @@ pre: " <b> 1.9. </b> "
 ### Các công việc đã triển khai trong tuần:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --------- | ------------ | --------------- | -------------- |
-| 2   | - TODO: công việc | DD/MM/YYYY | DD/MM/YYYY | <https://cloudjourney.awsstudygroup.com/> |
-| 3   | - TODO: công việc | DD/MM/YYYY | DD/MM/YYYY | |
-| 4   | - TODO: công việc <br> - **Thực hành:** <br>&emsp; + TODO: bước lab | DD/MM/YYYY | DD/MM/YYYY | |
-| 5   | - TODO: công việc | DD/MM/YYYY | DD/MM/YYYY | |
-| 6   | - TODO: công việc | DD/MM/YYYY | DD/MM/YYYY | |
+| 2   | - Ôn tập kiến thức về cloudwatch và tiếp tục làm việc nhóm: tiếp tục dự án | 09/11/2026 | 09/11/2026 | |
+| 3   | -  Làm việc nhóm: tiếp tục chạy dự án <br>- viết blog 1 | 10/11/2026 | 10/11/2026 | <https://aws.amazon.com/blogs/architecture/modernization-pathways-for-a-legacy-net-framework-monolithic-application-on-aws/><br><https://www.facebook.com/groups/awsstudygroupfcj/posts/2332507414180884> |
+| 4   | - TODO: công việc | 11/11/2026 | 11/11/2026 | |
+| 5   | - TODO: công việc | 12/11/2026 | 12/11/2026 | |
+| 6   | - TODO: công việc | 13/11/2026 | 13/11/2026 | |
 
 ### Kết quả đạt được tuần 9:
 

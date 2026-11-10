@@ -14,11 +14,11 @@ pre: " <b> 1.9. </b> "
 ### Tasks carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | ---- | ---------- | --------------- | ------------------ |
-| 2   | - TODO: task | DD/MM/YYYY | DD/MM/YYYY | <https://cloudjourney.awsstudygroup.com/> |
-| 3   | - TODO: task | DD/MM/YYYY | DD/MM/YYYY | |
-| 4   | - TODO: task <br> - **Practice:** <br>&emsp; + TODO: lab step | DD/MM/YYYY | DD/MM/YYYY | |
-| 5   | - TODO: task | DD/MM/YYYY | DD/MM/YYYY | |
-| 6   | - TODO: task | DD/MM/YYYY | DD/MM/YYYY | |
+| 2   | - Review CloudWatch knowledge and keep working with the team: continue the project | 09/11/2026 | 09/11/2026 | |
+| 3   | - Team work: keep running the project <br>- Write blog 1 | 10/11/2026 | 10/11/2026 | <https://aws.amazon.com/blogs/architecture/modernization-pathways-for-a-legacy-net-framework-monolithic-application-on-aws/><br><https://www.facebook.com/groups/awsstudygroupfcj/posts/2332507414180884> |
+| 4   | - TODO: task | 11/11/2026 | 11/11/2026 | |
+| 5   | - TODO: task | 12/11/2026 | 12/11/2026 | |
+| 6   | - TODO: task | 13/11/2026 | 13/11/2026 | |
 
 ### Week 9 Achievements:
 

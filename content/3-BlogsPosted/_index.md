@@ -6,9 +6,9 @@ chapter: false
 pre: " <b> 3. </b> "
 ---
 
-### [TODO: title](3.1-Blog1/)
+### [Overview of modernizing a .NET monolith on AWS](3.1-Blog1/)
 
-TODO: write content
+Blog 1 is a summary from the AWS Architecture Blog that shares a path for moving a .NET Framework monolith to AWS in 5 phases (assess, stabilize and replatform, modernize .NET, modernize the database, re-architect). It is checked against current AWS documentation and was posted in the AWS Study Group (FCAJ) Facebook group.
 
 ### [TODO: title](3.2-Blog2/)
 
