@@ -8,7 +8,7 @@ pre: " <b> 3.1. </b> "
 
 ## A .NET FRAMEWORK APP HAS RUN "JUST FINE" FOR 10 YEARS, SO WHY MODERNIZE IT? CHOOSING THE RIGHT PATH TO MOVE A .NET MONOLITH TO AWS
 
-> I also posted this article in the AWS Study Group (FCAJ) Facebook group: [view the post](https://www.facebook.com/groups/awsstudygroupfcj/posts/2332507414180884). The group is private, so only members can open the link.
+> I also posted this article in the AWS Study Group (FCAJ) Facebook group: [view the post](https://www.facebook.com/groups/awsstudygroupfcj/posts/2333637697401189). The group is private, so only members can open the link.
 
 ![Blog 1 post in the AWS Study Group (FCAJ) group](/images/3-BlogsPosted/blog1-fb-post.png)
 

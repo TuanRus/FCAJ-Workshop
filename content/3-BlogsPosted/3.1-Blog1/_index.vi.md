@@ -8,7 +8,7 @@ pre: " <b> 3.1. </b> "
 
 ## ỨNG DỤNG .NET FRAMEWORK CHẠY 10 NĂM VẪN "ỔN", VẬY SAO PHẢI HIỆN ĐẠI HÓA? CHỌN ĐÚNG LỘ TRÌNH ĐƯA .NET MONOLITH LÊN AWS
 
-> Bài viết này mình đã đăng trên group Facebook AWS Study Group (FCAJ): [xem bài đăng](https://www.facebook.com/groups/awsstudygroupfcj/posts/2332507414180884). Group ở chế độ riêng tư nên chỉ thành viên mới mở được link.
+> Bài viết này mình đã đăng trên group Facebook AWS Study Group (FCAJ): [xem bài đăng](https://www.facebook.com/groups/awsstudygroupfcj/posts/2333637697401189). Group ở chế độ riêng tư nên chỉ thành viên mới mở được link.
 
 ![Bài đăng Blog 1 trên group AWS Study Group (FCAJ)](/images/3-BlogsPosted/blog1-fb-post.png)
 

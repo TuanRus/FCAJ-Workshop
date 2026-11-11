@@ -15,7 +15,7 @@ pre: " <b> 1.9. </b> "
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --------- | ------------ | --------------- | -------------- |
 | 2   | - Ôn tập kiến thức về cloudwatch và tiếp tục làm việc nhóm: tiếp tục dự án | 09/11/2026 | 09/11/2026 | |
-| 3   | -  Làm việc nhóm: tiếp tục chạy dự án <br>- viết blog 1 | 10/11/2026 | 10/11/2026 | <https://aws.amazon.com/blogs/architecture/modernization-pathways-for-a-legacy-net-framework-monolithic-application-on-aws/><br><https://www.facebook.com/groups/awsstudygroupfcj/posts/2332507414180884> |
+| 3   | -  Làm việc nhóm: tiếp tục chạy dự án <br>- viết blog 1 | 10/11/2026 | 10/11/2026 | <https://aws.amazon.com/blogs/architecture/modernization-pathways-for-a-legacy-net-framework-monolithic-application-on-aws/><br><https://www.facebook.com/groups/awsstudygroupfcj/posts/2333637697401189> |
 | 4   | - Làm việc nhóm: tiếp tục chạy dự án <br>- Tìm ý tưởng cho blog 2 | 11/11/2026 | 11/11/2026 | <https://builder.aws.com/> |
 | 5   | - TODO: công việc | 12/11/2026 | 12/11/2026 | |
 | 6   | - TODO: công việc | 13/11/2026 | 13/11/2026 | |
