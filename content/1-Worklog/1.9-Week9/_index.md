@@ -17,7 +17,7 @@ pre: " <b> 1.9. </b> "
 | 2   | - Review CloudWatch knowledge and keep working with the team: continue the project | 09/11/2026 | 09/11/2026 | |
 | 3   | - Team work: keep running the project <br>- Write blog 1 | 10/11/2026 | 10/11/2026 | <https://aws.amazon.com/blogs/architecture/modernization-pathways-for-a-legacy-net-framework-monolithic-application-on-aws/><br><https://www.facebook.com/groups/awsstudygroupfcj/posts/2333637697401189> |
 | 4   | - Team work: keep running the project <br>- Brainstorm ideas for blog 2 | 11/11/2026 | 11/11/2026 | <https://builder.aws.com/> |
-| 5   | - TODO: task | 12/11/2026 | 12/11/2026 | |
+| 5   | - Start writing blog 3 (cost optimization on AWS) <br>- Team work: work on the project based on the references in the blog | 12/11/2026 | 12/11/2026 | <https://builder.aws.com/><br><https://cloudjourney.awsfcaj.com/> |
 | 6   | - TODO: task | 13/11/2026 | 13/11/2026 | |
 
 ### Week 9 Achievements:
