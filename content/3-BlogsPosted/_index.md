@@ -10,9 +10,9 @@ pre: " <b> 3. </b> "
 
 Blog 1 is a summary from the AWS Architecture Blog that shares a path for moving a .NET Framework monolith to AWS in 5 phases (assess, stabilize and replatform, modernize .NET, modernize the database, re-architect). It is checked against current AWS documentation and was posted in the AWS Study Group (FCAJ) Facebook group.
 
-### [TODO: title](3.2-Blog2/)
+### [Securing a legacy .NET application on AWS](3.2-Blog2/)
 
-TODO: write content
+Blog 2 continues the target architecture from Blog 1 and covers how to secure a legacy .NET application after moving it to AWS, in 4 pillars: secrets management (Secrets Manager and rotation), IAM roles (task execution role and task role), authentication (Cognito for users, domainless gMSA with Active Directory for the workload), and network and data security (WAF, security groups, TLS, KMS).
 
 ### [TODO: title](3.3-Blog3/)
 
