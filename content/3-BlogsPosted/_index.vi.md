@@ -14,6 +14,6 @@ Blog 1 tổng hợp từ AWS Architecture Blog, chia sẻ lộ trình đưa ứn
 
 Blog 2 nối tiếp kiến trúc đích ở Blog 1, chia sẻ cách bảo mật ứng dụng .NET legacy sau khi đưa lên AWS theo 4 trụ cột: quản lý secret (Secrets Manager và rotation), IAM role (task execution role và task role), xác thực (Cognito cho người dùng, domainless gMSA với Active Directory cho workload), và bảo mật mạng, dữ liệu (WAF, security group, TLS, KMS).
 
-### [TODO: tiêu đề](3.3-Blog3/)
+### [Tối ưu chi phí ứng dụng .NET sau khi lên AWS](3.3-Blog3/)
 
-TODO: điền nội dung
+Blog 3 khép lại series với tối ưu chi phí cho ứng dụng .NET sau khi hiện đại hóa, chia thành 4 nhóm: nhìn thấy chi phí (tag, Cost Explorer, Budgets, Cost Anomaly Detection), compute (right-size, Graviton, Savings Plans, Fargate Spot), database (edition SQL Server, Developer Edition cho dev/test, Reserved Instances), mạng và log (NAT gateway, VPC endpoint, thời gian lưu log). Cuối bài là ví dụ OrderServ giảm tới 64% chi phí compute.

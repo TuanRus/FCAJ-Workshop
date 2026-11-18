@@ -24,9 +24,9 @@ Nhật ký này ghi lại tiến độ hằng tuần của mình trong chương 
 
 **Tuần 8:** [Giám sát và ghi log: CloudWatch metrics và alarm, CloudTrail audit logging](1.8-week8/)
 
-**Tuần 9:** [TODO: Tóm tắt tuần 9](1.9-week9/)
+**Tuần 9:** [Viết blog 1 về hiện đại hóa ứng dụng .NET trên AWS, lên ý tưởng blog 2 và blog 3, làm dự án nhóm](1.9-week9/)
 
-**Tuần 10:** [TODO: Tóm tắt tuần 10](1.10-week10/)
+**Tuần 10:** [Đăng blog 2 về bảo mật ứng dụng .NET, viết và chỉnh sửa blog 3 về tối ưu chi phí, làm dự án nhóm](1.10-week10/)
 
 **Tuần 11:** [TODO: Tóm tắt tuần 11](1.11-week11/)
 

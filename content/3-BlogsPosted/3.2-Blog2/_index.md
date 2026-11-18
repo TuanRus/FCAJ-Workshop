@@ -10,6 +10,8 @@ pre: " <b> 3.2. </b> "
 
 > I also posted this article in the AWS Study Group (FCAJ) Facebook group: [view the post](https://www.facebook.com/groups/awsstudygroupfcj/posts/2338886330209659). The group is private, so only members can open the link.
 
+![Blog 2 post in the AWS Study Group (FCAJ) group](/images/3-BlogsPosted/blog2-fb-post.png)
+
 In Blog 1, I shared a path for modernizing a .NET monolith on AWS: assess, replatform, move to .NET 10, and only then think about the database and the architecture. But there is one question I did not answer: **once the application runs in containers, how does security change?**
 
 On-premises, many old .NET applications are secured in a "the firewall is enough" way: the database password sits in `Web.config`, the application runs as an IIS app pool account, users sign in with Windows Authentication, and everything trusts everything else because it is all inside the internal network. On AWS, these assumptions no longer hold.

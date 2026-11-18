@@ -24,9 +24,9 @@ This worklog records my weekly progress during the First Cloud AI Journey intern
 
 **Week 8:** [Monitoring and logging: CloudWatch metrics and alarms, and CloudTrail audit logging](1.8-week8/)
 
-**Week 9:** [TODO: Week 9 summary](1.9-week9/)
+**Week 9:** [Writing blog 1 on modernizing a .NET application on AWS, planning blog 2 and 3, and running the team project](1.9-week9/)
 
-**Week 10:** [TODO: Week 10 summary](1.10-week10/)
+**Week 10:** [Publishing blog 2 on securing a .NET application, writing and revising blog 3 on cost optimization, and running the team project](1.10-week10/)
 
 **Week 11:** [TODO: Week 11 summary](1.11-week11/)
 

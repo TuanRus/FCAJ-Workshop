@@ -10,6 +10,8 @@ pre: " <b> 3.2. </b> "
 
 > Bài viết này mình đã đăng trên group Facebook AWS Study Group (FCAJ): [xem bài đăng](https://www.facebook.com/groups/awsstudygroupfcj/posts/2338886330209659). Group ở chế độ riêng tư nên chỉ thành viên mới mở được link.
 
+![Bài đăng Blog 2 trên group AWS Study Group (FCAJ)](/images/3-BlogsPosted/blog2-fb-post.png)
+
 Ở Blog 1, mình đã chia sẻ lộ trình hiện đại hóa một .NET monolith lên AWS: đánh giá, replatform, lên .NET 10, rồi mới tính đến database và kiến trúc. Nhưng có một câu hỏi mình chưa trả lời: **ứng dụng chạy trên container rồi thì bảo mật thay đổi thế nào?**
 
 Trên on-premises, nhiều ứng dụng .NET cũ bảo mật theo kiểu "có tường lửa là đủ": mật khẩu database nằm trong `Web.config`, ứng dụng chạy bằng tài khoản IIS app pool, người dùng đăng nhập bằng Windows Authentication, và mọi thứ tin nhau vì cùng nằm trong mạng nội bộ. Khi lên AWS, những giả định này không còn đúng.
