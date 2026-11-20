@@ -18,7 +18,7 @@ pre: " <b> 1.10. </b> "
 | 3   | - Research materials for blog 3 (cost optimization for a .NET application on AWS) <br>- Write blog 3 | 17/11/2026 | 17/11/2026 | <https://aws.amazon.com/blogs/architecture/how-orderserv-achieved-up-to-64-cost-savings-with-multi-tenant-ecs/><br><https://docs.aws.amazon.com/cost-management/latest/userguide/cost-optimization-hub.html><br><https://000007.awsfcaj.com><br><https://000032.awsfcaj.com><br><https://000034.awsfcaj.com><br><https://000042.awsfcaj.com><br><https://000064.awsfcaj.com> |
 | 4   | - Keep writing blog 3: revise the diagram and content after review (VPC endpoints for ECR/Secrets Manager/Logs, Scheduled Scaling for dev/test, Fargate Spot, BYOM, cost allocation tags, S3 lifecycle) <br>- Team work: run the FCAJ project | 18/11/2026 | 18/11/2026 | <https://docs.aws.amazon.com/AmazonECR/latest/userguide/vpc-endpoints.html><br><https://docs.aws.amazon.com/AmazonECS/latest/developerguide/fargate-capacity-providers.html><br><https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ecs-using-tags.html><br><https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/CloudWatch_Logs_Log_Classes.html><br><https://cloudjourney.awsfcaj.com/><br><https://www.facebook.com/groups/awsstudygroupfcj/posts/2341814056583553> |
 | 5   | - Team work: keep running the FCAJ project | 19/11/2026 | 19/11/2026 | |
-| 6   | - TODO: task | 20/11/2026 | 20/11/2026 | |
+| 6   | - Team work: keep running the FCAJ project | 20/11/2026 | 20/11/2026 | |
 
 ### Week 10 Achievements:
 
