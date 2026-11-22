@@ -19,6 +19,7 @@ pre: " <b> 1.10. </b> "
 | 4   | - Keep writing blog 3: revise the diagram and content after review (VPC endpoints for ECR/Secrets Manager/Logs, Scheduled Scaling for dev/test, Fargate Spot, BYOM, cost allocation tags, S3 lifecycle) <br>- Team work: run the FCAJ project | 18/11/2026 | 18/11/2026 | <https://docs.aws.amazon.com/AmazonECR/latest/userguide/vpc-endpoints.html><br><https://docs.aws.amazon.com/AmazonECS/latest/developerguide/fargate-capacity-providers.html><br><https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ecs-using-tags.html><br><https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/CloudWatch_Logs_Log_Classes.html><br><https://cloudjourney.awsfcaj.com/><br><https://www.facebook.com/groups/awsstudygroupfcj/posts/2341814056583553> |
 | 5   | - Team work: keep running the FCAJ project | 19/11/2026 | 19/11/2026 | |
 | 6   | - Team work: keep running the FCAJ project | 20/11/2026 | 20/11/2026 | |
+| Sun | - Team work: keep running the FCAJ project (RoomLedger) <br>- Infra: RDS Multi-AZ for prod, add an SQS queue for photo processing, add the prod stage per architecture v8.5.2 <br>- Trim features: remove AI photo comparison at move-out, drop the unused contract-terms prompt | 22/11/2026 | 22/11/2026 | |
 
 ### Week 10 Achievements:
 

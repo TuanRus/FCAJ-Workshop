@@ -19,6 +19,7 @@ pre: " <b> 1.10. </b> "
 | 4   | - Tiếp tục viết blog 3: sửa sơ đồ và nội dung theo phản biện (VPC endpoint cho ECR/Secrets Manager/Logs, Scheduled Scaling cho dev/test, Fargate Spot, BYOM, cost allocation tag, lifecycle S3) <br>- Làm việc nhóm: chạy project FCAJ | 18/11/2026 | 18/11/2026 | <https://docs.aws.amazon.com/AmazonECR/latest/userguide/vpc-endpoints.html><br><https://docs.aws.amazon.com/AmazonECS/latest/developerguide/fargate-capacity-providers.html><br><https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ecs-using-tags.html><br><https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/CloudWatch_Logs_Log_Classes.html><br><https://cloudjourney.awsfcaj.com/><br><https://www.facebook.com/groups/awsstudygroupfcj/posts/2341814056583553> |
 | 5   | - Làm việc nhóm: tiếp tục chạy project FCAJ | 19/11/2026 | 19/11/2026 | |
 | 6   | - Làm việc nhóm: tiếp tục chạy project FCAJ | 20/11/2026 | 20/11/2026 | |
+| CN  | - Làm việc nhóm: tiếp tục chạy project FCAJ (RoomLedger) <br>- Hạ tầng: bật RDS Multi-AZ cho prod, thêm hàng đợi SQS cho xử lý ảnh, thêm stage prod theo kiến trúc v8.5.2 <br>- Rút gọn tính năng: bỏ so sánh ảnh bằng AI khi trả phòng, bỏ prompt điều khoản hợp đồng không dùng | 22/11/2026 | 22/11/2026 | |
 
 ### Kết quả đạt được tuần 10:
 
