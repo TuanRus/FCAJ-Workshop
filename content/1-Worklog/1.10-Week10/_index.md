@@ -20,6 +20,7 @@ pre: " <b> 1.10. </b> "
 | 5   | - Team work: keep running the FCAJ project | 19/11/2026 | 19/11/2026 | |
 | 6   | - Team work: keep running the FCAJ project | 20/11/2026 | 20/11/2026 | |
 | Sun | - Team work: keep running the FCAJ project (RoomLedger) <br>- Infra: RDS Multi-AZ for prod, add an SQS queue for photo processing, add the prod stage per architecture v8.5.2 <br>- Trim features: remove AI photo comparison at move-out, drop the unused contract-terms prompt | 22/11/2026 | 22/11/2026 | |
+| 2   | - Team work: keep running the FCAJ project (RoomLedger) | 23/11/2026 | 23/11/2026 | |
 
 ### Week 10 Achievements:
 

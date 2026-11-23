@@ -20,6 +20,7 @@ pre: " <b> 1.10. </b> "
 | 5   | - Làm việc nhóm: tiếp tục chạy project FCAJ | 19/11/2026 | 19/11/2026 | |
 | 6   | - Làm việc nhóm: tiếp tục chạy project FCAJ | 20/11/2026 | 20/11/2026 | |
 | CN  | - Làm việc nhóm: tiếp tục chạy project FCAJ (RoomLedger) <br>- Hạ tầng: bật RDS Multi-AZ cho prod, thêm hàng đợi SQS cho xử lý ảnh, thêm stage prod theo kiến trúc v8.5.2 <br>- Rút gọn tính năng: bỏ so sánh ảnh bằng AI khi trả phòng, bỏ prompt điều khoản hợp đồng không dùng | 22/11/2026 | 22/11/2026 | |
+| 2   | - Làm việc nhóm: tiếp tục chạy project FCAJ (RoomLedger) | 23/11/2026 | 23/11/2026 | |
 
 ### Kết quả đạt được tuần 10:
 
