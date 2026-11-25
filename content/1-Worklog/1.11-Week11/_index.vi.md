@@ -14,11 +14,11 @@ pre: " <b> 1.11. </b> "
 ### Các công việc đã triển khai trong tuần:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --------- | ------------ | --------------- | -------------- |
-| 2   | - TODO: công việc | DD/MM/YYYY | DD/MM/YYYY | <https://cloudjourney.awsstudygroup.com/> |
-| 3   | - TODO: công việc | DD/MM/YYYY | DD/MM/YYYY | |
-| 4   | - TODO: công việc <br> - **Thực hành:** <br>&emsp; + TODO: bước lab | DD/MM/YYYY | DD/MM/YYYY | |
-| 5   | - TODO: công việc | DD/MM/YYYY | DD/MM/YYYY | |
-| 6   | - TODO: công việc | DD/MM/YYYY | DD/MM/YYYY | |
+| 2   | - TODO: công việc | 23/11/2026 | 23/11/2026 | |
+| 3   | - TODO: công việc | 24/11/2026 | 24/11/2026 | |
+| 4   | - Làm việc nhóm: tiếp tục chạy project FCAJ (RoomLedger) <br>- Kết nối API giữa frontend và backend | 25/11/2026 | 25/11/2026 | |
+| 5   | - TODO: công việc | 26/11/2026 | 26/11/2026 | |
+| 6   | - TODO: công việc | 27/11/2026 | 27/11/2026 | |
 
 ### Kết quả đạt được tuần 11:
 
