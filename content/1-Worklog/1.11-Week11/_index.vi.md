@@ -17,7 +17,7 @@ pre: " <b> 1.11. </b> "
 | 2   | - TODO: công việc | 23/11/2026 | 23/11/2026 | |
 | 3   | - TODO: công việc | 24/11/2026 | 24/11/2026 | |
 | 4   | - Làm việc nhóm: tiếp tục chạy project FCAJ (RoomLedger) <br>- Kết nối API giữa frontend và backend | 25/11/2026 | 25/11/2026 | |
-| 5   | - TODO: công việc | 26/11/2026 | 26/11/2026 | |
+| 5   | - Làm việc nhóm: tiếp tục chạy project FCAJ (RoomLedger) <br>- Hoàn thiện kết nối frontend với API backend (các màn hình chủ trọ và người thuê, chế độ LocalDev để chạy API không cần Cognito/AWS) <br>- Thêm luồng kết thúc hợp đồng thuê và chuyển phòng <br>- Thêm thông tin thanh toán, upload mã QR và chỉnh sửa giá phòng cho chủ trọ; hóa đơn của người thuê hiển thị thông tin chuyển khoản và QR | 26/11/2026 | 26/11/2026 | |
 | 6   | - TODO: công việc | 27/11/2026 | 27/11/2026 | |
 
 ### Kết quả đạt được tuần 11:

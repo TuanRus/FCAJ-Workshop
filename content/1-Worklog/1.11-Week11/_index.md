@@ -17,7 +17,7 @@ pre: " <b> 1.11. </b> "
 | 2   | - TODO: task | 23/11/2026 | 23/11/2026 | |
 | 3   | - TODO: task | 24/11/2026 | 24/11/2026 | |
 | 4   | - Team work: keep running the FCAJ project (RoomLedger) <br>- Connect the API between the frontend and the backend | 25/11/2026 | 25/11/2026 | |
-| 5   | - TODO: task | 26/11/2026 | 26/11/2026 | |
+| 5   | - Team work: keep running the FCAJ project (RoomLedger) <br>- Finish wiring the frontend to the backend API (landlord and tenant screens, LocalDev mode to run the API without Cognito/AWS) <br>- Add the end tenancy and room move flow <br>- Add landlord payment info, QR upload and editable room rates; the tenant invoice shows the transfer details and QR | 26/11/2026 | 26/11/2026 | |
 | 6   | - TODO: task | 27/11/2026 | 27/11/2026 | |
 
 ### Week 11 Achievements:
