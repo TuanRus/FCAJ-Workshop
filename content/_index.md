@@ -1,6 +1,6 @@
 ---
 title: "Internship Report"
-date: 2026-10-30
+date: 2026-11-27
 weight: 1
 chapter: false
 ---
@@ -15,17 +15,17 @@ chapter: false
 
 &emsp; **University:** FPT University Ho Chi Minh City
 
-&emsp; **Major:** Information Technology
+&emsp; **Major:** Software Engineering
 
-&emsp; **Class:** AWS092026
+&emsp; **Class:** FPTU-SS4
 
 &emsp; **Internship Company:** Amazon Web Services Viet Nam Company Limited
 
 &emsp; **Internship Position:** Workforce Bootcamp - First Cloud AI Journey
 
-&emsp; **Internship Duration:** From 14/09/2026 to present
+&emsp; **Internship Duration:** From 14/09/2026 to 14/12/2026
 
-![Your profile picture](/images/avatar.png)
+![Your profile picture](/static/images/avatar.png)
 
 
 

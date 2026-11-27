@@ -1,6 +1,6 @@
 ---
 title: "Báo cáo thực tập"
-date: 2026-10-30
+date: 2026-11-27
 weight: 1
 chapter: false
 ---
@@ -15,17 +15,17 @@ chapter: false
 
 &emsp; **Trường:** Đại học FPT TP.HCM
 
-&emsp; **Ngành:** Công nghệ thông tin
+&emsp; **Ngành:** Kỹ Thuật Phần Mềm
 
-&emsp; **Lớp:** AWS092026
+&emsp; **Lớp:** FPTU-SS4
 
 &emsp; **Công ty thực tập:** Công ty TNHH Amazon Web Services Viet Nam
 
 &emsp; **Vị trí thực tập:** Workforce Bootcamp - First Cloud AI Journey
 
-&emsp; **Thời gian thực tập:** Từ ngày 14/09/2026 đến ngày hiện tại
+&emsp; **Thời gian thực tập:** Từ ngày 14/09/2026 đến ngày 14/12/2026
 
-![Ảnh đại diện của bạn](/images/avatar.png)
+![Ảnh đại diện của bạn](/static/images/avatar.png)
 
 
 

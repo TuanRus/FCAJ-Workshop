@@ -1,6 +1,6 @@
 ---
 title: "Week 8 Worklog"
-date: 2026-11-04
+date: 2026-11-06
 weight: 8
 chapter: false
 pre: " <b> 1.8. </b> "
@@ -18,7 +18,7 @@ pre: " <b> 1.8. </b> "
 | 3   | - Learn about CloudTrail audit logging | 03/11/2026 | 04/11/2026 | |
 | 4   | - Finalize the team project with the team, make a plan and start running the project | 04/11/2026 | 08/11/2026 | |
 | 5   | - Team work: keep running the project | 05/11/2026 | 05/11/2026 | |
-| 6   | - **Practice: set up comprehensive monitoring** <br>&emsp; + Step 1: create a CloudWatch dashboard and alarms for resources <br>&emsp; + Step 2: enable CloudTrail to log activity on the account <br>&emsp; + Step 3: enable X-Ray to trace an application <br>&emsp; + Step 4: check the monitoring data and alerts <br>&emsp; + Step 5: clean up the resources after the lab <br>- Team work: keep running the project | 06/11/2026 | 06/11/2026 | |
+| 6   | - **Practice: set up comprehensive monitoring** <br>&emsp; + Step 1: create a CloudWatch dashboard and alarms for resources <br>&emsp; + Step 2: enable CloudTrail to log activity on the account <br>&emsp; + Step 3: enable X-Ray to trace an application <br>&emsp; + Step 4: check the monitoring data and alerts <br>&emsp; + Step 5: clean up the resources after the lab <br>- Team work: keep running the project | 06/11/2026 | 06/11/2026 | <https://github.com/TuanRus/RoomLedger/pull/1> |
 
 ### Week 8 Achievements:
 

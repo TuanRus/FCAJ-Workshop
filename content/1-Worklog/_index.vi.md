@@ -1,6 +1,6 @@
 ---
 title: "Nhật ký công việc"
-date: 2026-10-30
+date: 2026-11-27
 weight: 1
 chapter: false
 pre: " <b> 1. </b> "
@@ -26,9 +26,9 @@ Nhật ký này ghi lại tiến độ hằng tuần của mình trong chương 
 
 **Tuần 9:** [Viết blog 1 về hiện đại hóa ứng dụng .NET trên AWS, lên ý tưởng blog 2 và blog 3, làm dự án nhóm](1.9-week9/)
 
-**Tuần 10:** [Đăng blog 2 về bảo mật ứng dụng .NET, viết và chỉnh sửa blog 3 về tối ưu chi phí, làm dự án nhóm](1.10-week10/)
+**Tuần 10:** [Đăng blog 2 về bảo mật ứng dụng .NET, viết và chỉnh sửa blog 3 về tối ưu chi phí](1.10-week10/)
 
-**Tuần 11:** [Làm dự án nhóm và hoàn thiện sản phẩm: kết nối frontend với API backend, đẩy lên AWS](1.11-week11/)
+**Tuần 11:** [Hoàn Thiện Project FCAJ](1.11-week11/)
 
 **Tuần 12:** [TODO: Tóm tắt tuần 12](1.12-week12/)
 
