@@ -28,7 +28,7 @@ Nhật ký này ghi lại tiến độ hằng tuần của mình trong chương 
 
 **Tuần 10:** [Đăng blog 2 về bảo mật ứng dụng .NET, viết và chỉnh sửa blog 3 về tối ưu chi phí, làm dự án nhóm](1.10-week10/)
 
-**Tuần 11:** [TODO: Tóm tắt tuần 11](1.11-week11/)
+**Tuần 11:** [Làm dự án nhóm và hoàn thiện sản phẩm: kết nối frontend với API backend, đẩy lên AWS](1.11-week11/)
 
 **Tuần 12:** [TODO: Tóm tắt tuần 12](1.12-week12/)
 

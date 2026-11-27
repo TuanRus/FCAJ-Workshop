@@ -8,28 +8,23 @@ pre: " <b> 1.11. </b> "
 
 ### Mục tiêu tuần 11:
 
-* TODO: Mục tiêu 1
-* TODO: Mục tiêu 2
+* Tiếp tục chạy project FCAJ (RoomLedger) cùng nhóm
+* Hoàn thiện sản phẩm: kết nối frontend với API backend, bổ sung các luồng nghiệp vụ còn thiếu và đưa lên AWS
 
 ### Các công việc đã triển khai trong tuần:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --------- | ------------ | --------------- | -------------- |
 | 2   | - TODO: công việc | 23/11/2026 | 23/11/2026 | |
 | 3   | - TODO: công việc | 24/11/2026 | 24/11/2026 | |
-| 4   | - Làm việc nhóm: tiếp tục chạy project FCAJ (RoomLedger) <br>- Kết nối API giữa frontend và backend | 25/11/2026 | 25/11/2026 | |
-| 5   | - Làm việc nhóm: tiếp tục chạy project FCAJ (RoomLedger) <br>- Hoàn thiện kết nối frontend với API backend (các màn hình chủ trọ và người thuê, chế độ LocalDev để chạy API không cần Cognito/AWS) <br>- Thêm luồng kết thúc hợp đồng thuê và chuyển phòng <br>- Thêm thông tin thanh toán, upload mã QR và chỉnh sửa giá phòng cho chủ trọ; hóa đơn của người thuê hiển thị thông tin chuyển khoản và QR | 26/11/2026 | 26/11/2026 | |
-| 6   | - TODO: công việc | 27/11/2026 | 27/11/2026 | |
+| 4   | - Làm việc nhóm: tiếp tục chạy project FCAJ (RoomLedger) <br>- Cùng team kết nối API giữa frontend và backend | 25/11/2026 | 25/11/2026 | |
+| 5   | - Làm việc nhóm: tiếp tục chạy project FCAJ (RoomLedger) <br>- Cùng team hoàn thiện kết nối frontend với API backend | 26/11/2026 | 26/11/2026 | |
+| 6   | - Làm việc nhóm: tiếp tục chạy project FCAJ (RoomLedger) <br>- Đẩy từng phần của project lên AWS để chuẩn bị test end-to-end và quay video demo trong cuối tuần cùng team| 27/11/2026 | 27/11/2026 | |
 
 ### Kết quả đạt được tuần 11:
 
-* TODO: Kiến thức đã hiểu
-* TODO: Những gì đã làm / thực hành
-* TODO: Kỹ năng có được
+* TODO:
 
 ### Khó khăn & cách giải quyết:
 
-* TODO: Vấn đề gặp phải và cách xử lý (không bắt buộc)
+* 1 thành viên liên tục trễ deadline, không đóng góp vào dự án khiến tiến độ dự án bị trễ so với dự tính của team - vote kick member
 
-### Kế hoạch tuần tới:
-
-* TODO: Không bắt buộc

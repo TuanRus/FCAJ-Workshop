@@ -28,7 +28,7 @@ This worklog records my weekly progress during the First Cloud AI Journey intern
 
 **Week 10:** [Publishing blog 2 on securing a .NET application, writing and revising blog 3 on cost optimization, and running the team project](1.10-week10/)
 
-**Week 11:** [TODO: Week 11 summary](1.11-week11/)
+**Week 11:** [Running the team project and finishing the product: wiring the frontend to the backend API and deploying to AWS](1.11-week11/)
 
 **Week 12:** [TODO: Week 12 summary](1.12-week12/)
 

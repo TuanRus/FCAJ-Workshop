@@ -8,28 +8,22 @@ pre: " <b> 1.11. </b> "
 
 ### Week 11 Objectives:
 
-* TODO: Objective 1
-* TODO: Objective 2
+* Keep running the FCAJ project (RoomLedger) with the team
+* Finish the product: wire the frontend to the backend API, add the missing business flows and deploy to AWS
 
 ### Tasks carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | ---- | ---------- | --------------- | ------------------ |
 | 2   | - TODO: task | 23/11/2026 | 23/11/2026 | |
 | 3   | - TODO: task | 24/11/2026 | 24/11/2026 | |
-| 4   | - Team work: keep running the FCAJ project (RoomLedger) <br>- Connect the API between the frontend and the backend | 25/11/2026 | 25/11/2026 | |
-| 5   | - Team work: keep running the FCAJ project (RoomLedger) <br>- Finish wiring the frontend to the backend API (landlord and tenant screens, LocalDev mode to run the API without Cognito/AWS) <br>- Add the end tenancy and room move flow <br>- Add landlord payment info, QR upload and editable room rates; the tenant invoice shows the transfer details and QR | 26/11/2026 | 26/11/2026 | |
-| 6   | - TODO: task | 27/11/2026 | 27/11/2026 | |
+| 4   | - Team work: keep running the FCAJ project (RoomLedger) <br>- Connect the API between the frontend and the backend with the team | 25/11/2026 | 25/11/2026 | |
+| 5   | - Team work: keep running the FCAJ project (RoomLedger) <br>- Finish wiring the frontend to the backend API with the team | 26/11/2026 | 26/11/2026 | |
+| 6   | - Team work: keep running the FCAJ project (RoomLedger) <br>- Deploy the project to AWS piece by piece to prepare for end-to-end testing and recording the demo video with the team over the weekend | 27/11/2026 | 27/11/2026 | |
 
 ### Week 11 Achievements:
 
-* TODO: What you learned / understood
-* TODO: What you built or practiced
-* TODO: Skills gained
+* TODO:
 
 ### Difficulties & Solutions:
 
-* TODO: Problem met and how you solved it (optional)
-
-### Plan for next week:
-
-* TODO: Optional
+* One team member kept missing deadlines and did not contribute to the project, which put the project behind the team's schedule - the team voted to remove the member
