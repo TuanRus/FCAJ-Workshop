@@ -18,6 +18,7 @@ pre: " <b> 1.11. </b> "
 | 4   | - Team work: keep running the FCAJ project (RoomLedger) <br>- Connect the API between the frontend and the backend with the team | 25/11/2026 | 25/11/2026 | <https://github.com/TuanRus/RoomLedger/pull/38><br><https://github.com/TuanRus/RoomLedger/pull/39> |
 | 5   | - Team work: keep running the FCAJ project (RoomLedger) <br>- Finish wiring the frontend to the backend API with the team | 26/11/2026 | 26/11/2026 | <https://github.com/TuanRus/RoomLedger/pull/40><br><https://github.com/TuanRus/RoomLedger/pull/41><br><https://github.com/TuanRus/RoomLedger/pull/42> |
 | 6   | - Team work: keep running the FCAJ project (RoomLedger) <br>- Deploy the project to AWS piece by piece to prepare for end-to-end testing and recording the demo video with the team over the weekend | 27/11/2026 | 27/11/2026 | <https://github.com/TuanRus/RoomLedger/pull/43> |
+| 7   | - Team work: keep running the FCAJ workshop (RoomLedger) <br>- Run end-to-end tests on AWS and fix bugs with the team | 28/11/2026 | 28/11/2026 | |
 
 ### Week 11 Achievements:
 
